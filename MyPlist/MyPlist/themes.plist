@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Groot</key>
+	<dict>
+		<key>bgColor</key>
+		<array>
+			<integer>1</integer>
+			<integer>1</integer>
+			<integer>0</integer>
+			<integer>1</integer>
+		</array>
+		<key>txtColor</key>
+		<array>
+			<integer>0</integer>
+			<integer>1</integer>
+			<integer>1</integer>
+			<integer>1</integer>
+		</array>
+	</dict>
+	<key>Bubu</key>
+	<dict>
+		<key>bgColor</key>
+		<array>
+			<integer>1</integer>
+			<integer>0</integer>
+			<integer>1</integer>
+			<integer>1</integer>
+		</array>
+		<key>txtColor</key>
+		<array>
+			<integer>1</integer>
+			<integer>1</integer>
+			<integer>1</integer>
+			<integer>1</integer>
+		</array>
+	</dict>
+</dict>
+</plist>
